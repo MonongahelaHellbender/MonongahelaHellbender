@@ -68,4 +68,4 @@ If you are evaluating this work, the strongest reading is not “new theorem
 factory.” It is: **a working portfolio for building systems that know when not to
 believe themselves.**
 
-Public contact route for now: GitHub.
+Contact: mellison.docs@gmail.com · GitHub: @MonongahelaHellbender
